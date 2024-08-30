@@ -5,4 +5,6 @@ Expected functionality:
 - Visualization of multiple phase-folded light curves on a single plot without losing interpretability of the plot;
 - Possibility of integration into Django web-sites.
 
+The main audience of the toolset is the LSST Transient and Variable Sky Science Collaboration.
+
 Uses Holoviz packages in the backend.
